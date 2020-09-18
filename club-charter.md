@@ -4,14 +4,11 @@
 
 ## Purpose
 
-To identify, appreciate, and care for snake-related (visually, lexically,
-metaphorically, or taxonomically) things.
+OARS likes water and we’re a big fan of things that go in it. We aspire to continue building networks and relationships with companies and professionals outside Olin to co-design and co-develop boats, water bots, aquatic hardware, and software.
 
 ## Membership
 
-Anyone is welcome to attend our meetings and SNek Appreciation aCtivities
-(SNACs). Additionally, we maintain a roster of members that regularly attend
-club activities/are subscribed to our mailing list.
+Anyone is welcome to attend our meetings, either has a guest or as a member.
 
 ## Officers and Roles
 

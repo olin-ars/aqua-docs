@@ -1,19 +1,27 @@
-# OARS (Olin Aquatic Robotic Systems)
+# :sailboat::ocean: OARS (Olin Aquatic Robotic Systems)
 
 *Last modified 2020-09-18*
 
 ## Purpose
 
-OARS likes water and we’re a big fan of things that go in it. We aspire to continue building networks and relationships with companies and professionals outside Olin to co-design and co-develop boats, water bots, aquatic hardware, and software.
+OARS likes water and we’re a big fan of things that go in it. We aspire to continue
+building networks and relationships with companies and professionals outside Olin to
+co-design and co-develop boats, water bots, aquatic hardware, and software.
 
 ## Membership
 
-Anyone is welcome to attend our meetings, either has a guest or as a member.
+Anyone is welcome to attend our meetings, either has a guest or as a member. If we
+attend conferences or events, only official team members are going to be able to
+attend (unless discussed).
 
 ## Officers and Roles
 
-Two officers manage Snek Club, a primary leader (known as the Tail) and a
-secondary leader (known as the Head).
+There are several roles within the leadership structure of OARS:
+- Cap'n of the Voyage (project manager)
+- Cap'n of Coin (treasurer)
+- Champion of Happiness
+- First Mates (subteam leads)
+- Buccaneers (members)
 
 ## Transition Protocol
 
@@ -26,18 +34,18 @@ through excellence voting of all attendees. If the former Head chooses not to
 
 ## Club Assets
 
-- the snek@lists.olin.edu mailing list
-- locked storage cabinet on the 4th floor of the AC (containing NO LIVE
-  SNAKES)
-- various secret shrines in Parcel B
+- the ors@lists.olin.edu mailing list
+- oars.club, olinars.club, olinaquaticroboticsystems.club
+- locked big storage container (and contents) behind the MAC
+  * boats (many)
+  * computers (big and small)
+  * furniture (workspace tables)
 
 ## Expected Purchases
 
-We generally purchase frozen mice, candles, and eggs on a regular basis (around
-$15/month).  Periodically (about once every two years) we'll probably need to
-augment our long-term supplies of snakes costumes (both for people and snakes)
-plastic boxes with breathing holes, and humane animal traps (around $100 every
-two years).
+- web infrastructure (website and server hosting): _$25-30 per year_
+- snacks on a regular baisis for meetings (exempting breaks and off-campus periods): _$200-300 per year_
+- miscellaneous electrical and mechanical parts: _project dependent_
 
 ## Events and Activities
 

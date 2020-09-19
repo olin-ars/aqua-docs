@@ -10,27 +10,32 @@ co-design and co-develop boats, water bots, aquatic hardware, and software.
 
 ## Membership
 
-Anyone is welcome to attend our meetings, either has a guest or as a member. If we
-attend conferences or events, only official team members are going to be able to
-attend (unless discussed).
+Anyone is welcome to attend meetings at any time, announced or unannocuned, either as a guest
+or as a member. If OARS attends conferences and/or events, only official team members are
+allowed and able to attend (unless otherwise discussed and agreed upon by Leadership or by
+teamwide vote).
 
 ## Officers and Roles
 
-There are several roles within the leadership structure of OARS:
+There are several roles within the Leadership structure of OARS:
 - Cap'n of the Voyage (project manager)
 - Cap'n of Coin (treasurer)
-- Champion of Happiness
+- Champion of Happiness (team health lead)
 - First Mates (subteam leads)
-- Buccaneers (members)
+
+These are to say, OARS is and should remain a democratic club and important decisions should
+take into consideration the perspectives, ideas, and votes of all its established Buccaneers
+(members).
 
 ## Transition Protocol
 
-In keeping with the concept of _ouroboros_, at the end of each year, the Head
-"eats" the Tail, becoming the primary leader of the club (the Tail) and
-fulfilling the circle of life and death. A new Head is chosen from the
-membership at a candle-lit ceremony on the last full moon of the school year
-through excellence voting of all attendees. If the former Head chooses not to
-"eat" the Tail, a new Tail is chosen with the same process.
+At the end of each academic year, prior to Finals, Leadership must reassess its members and
+reassign roles depending on the work and time commitment of existing and new members. This task
+should be transparent to the rest of the team, taking into consideration its members' opinions.
+
+Upon role switching, passing of knowledge and responsibility should extend beyond simple title
+changes (principally, in transferring of ownership of GitHub repositories, the Slack
+workspace, Asana board, and other tools used by The Team).
 
 ## Club Assets
 

@@ -1,4 +1,4 @@
-# :sailboat::ocean: OARS (Olin Aquatic Robotic Systems)
+# OARS (Olin Aquatic Robotic Systems) :sailboat::ocean:
 
 *Last modified 2020-09-18*
 
